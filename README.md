@@ -1,6 +1,6 @@
 # Sega Genesis Palette Scroll Demo
 An old, well known trick. Updates the palette on each line of a base pattern to draw an image.
-The formation of the base pattern is how the image is distorted, which can be used for some neat effects.
+The formation of the base pattern determines how the image is distorted, which can be used for some neat effects.
 
 Program and its source for converting an image into a series of color data for this demo is included.
 
